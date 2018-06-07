@@ -1,0 +1,13 @@
+n = float(input('Digite um numero para saber sua tabuada: '))
+print('===============')
+print('{1} X 1  = {1} \n'
+      '{1} X 2  = {2}\n'
+      '{1} X 3  = {3}\n'
+      '{1} X 4  = {4}\n'
+      '{1} X 5  = {5}\n'
+      '{1} X 6  = {6}\n'
+      '{1} X 7  = {7}\n'
+      '{1} X 8  = {8}\n'
+      '{1} X 9  = {9}\n'
+      '{1} X 10 = {10}\n'.format(n, n*1, n*2, n*3, n*4, n*5, n*6, n*7, n*8, n*9, n*10))
+print('================')
