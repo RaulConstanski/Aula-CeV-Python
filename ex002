@@ -1,0 +1,2 @@
+nome = input('Qual seu nome? ')
+print('Ola {},Seja bem vindo'.format(nome))
